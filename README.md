@@ -76,8 +76,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Medical-Insurance-Price-Prediction.git
-   cd Medical-Insurance-Price-Prediction
+   https://github.com/Amit-priyu/Medical-Insurance-Using-Machine-Learning-ML-.git
    ```
 
 2. **Install the required libraries:**
